@@ -8,54 +8,139 @@
 
 
 <url>
-  <loc>https://www.dixpai.com/</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/index.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/index.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/about.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/about.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/service.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/service.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/project.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/support/tomcat-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/contact.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/support/nginx-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/datapipeline.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/support/github-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/dataplatform.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/support/redis-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/dappmodern.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/support/ubuntu-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.dixpai.com/diot.html</loc>
-  <lastmod>2025-01-08T10:57:21+00:00</lastmod>
+  <loc>https://dixp.ai/support/postgresql-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/support/prometheus-support-and-services.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/project.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blogs.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/career.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/contact.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/datapipeline.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/dataplatform.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/dappmodern.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/diot.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blog-datapipeline.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blog-deepseek.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blog-opensource-genai.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blog-fun-facts-about-technology.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blog-2025-trends-data-and-ai.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/blog-iot-platforms.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/careers/jobs/newdelhi-businessdev-exexcutive-c2522612.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dixp.ai/careers/jobs/newdelhi-data-engineer-c2522611.html</loc>
+  <lastmod>2025-06-27T13:43:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
